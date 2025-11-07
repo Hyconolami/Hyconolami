@@ -1,16 +1,19 @@
 # 👋 Hi, I'm Hammed Olamilekan Yakub  
+ 
+💼 Cybersecurity Expert | System Analyst | IT Governance & Network Security |
+Threat hunter | GRC |
 
-### 💻 Business & Cybersecurity Enthusiast | Entrepreneur | Tech Explorer  
-
-A results-driven Lead Incident Manager with strong expertise in cybersecurity operations, incident response, and threat analysis. Experienced in managing and mitigating complex cyber incidents, conducting root cause investigations, and ensuring compliance with ISO 27001 and Cyber Essentials Plus. Demonstrated ability to lead cross-functional teams, enhance security posture, and implement proactive defensive measures across cloud and enterprise environments. Skilled in threat detection, vulnerability management, and coordination with SOC teams to ensure the integrity and resilience of IT systems
+🌍 Based in United Kingdom
 
 ## 🧠 About Me  
 
-- 🎓 **B.Sc. in Business & Entrepreneurship** – Kwara State University  
-- 💼 Experience in **banking, insurance, and IT systems**  
-- 🚀 Founder of **HZA Group Ltd** — overseeing subsidiaries like **Golden Zay Oils Ltd** and **PrimeLend Finance**  
-- 🔐 Currently pursuing a path in **Cybersecurity**  
-- 💡 Passionate about **data-driven decisions**, **strategic planning**, and **innovation**  
+🔐 Passionate about building secure, scalable, and compliant IT systems
+
+- Experienced in network security, access control, and system analysis
+
+- Currently exploring cloud security, GRC frameworks, and cyber risk management
+
+💡Passionate about **data-driven decisions**, **strategic planning**, and **innovation**  
 
 ---
 
@@ -29,10 +32,6 @@ A results-driven Lead Incident Manager with strong expertise in cybersecurity op
 ## 🌱 What I'm Working On  
 
 - 🎯 Building expertise in **Cybersecurity** (threat analysis, network security, risk management)  
-- 🏗️ Growing **Golden Zay Oils Ltd** — a sustainable agribusiness venture  
-- 💸 Expanding **PrimeLend Finance** — a micro-lending startup in Nigeria  
-
----
 
 ## 📈 My Goals  
 
