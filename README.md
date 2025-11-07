@@ -7,7 +7,7 @@ Threat hunter | GRC |
 
 ## 🧠 About Me  
 
-🔐 Passionate about building secure, scalable, and compliant IT systems
+🔐 Passionate about building secure scalable and compliant IT systems
 
 - Experienced in network security, access control, and system analysis
 
@@ -33,17 +33,9 @@ Threat hunter | GRC |
 
 - 🎯 Building expertise in **Cybersecurity** (threat analysis, network security, risk management)  
 
-## 📈 My Goals  
-
-- Earn globally recognized **cybersecurity certifications** (CompTIA Security+, CEH, or CISSP)  
-- Combine **entrepreneurship and cybersecurity** to drive secure business growth in Africa  
-- Build meaningful **open-source projects** and share learning resources  
-
----
-
 ## 📫 Connect With Me  
 
-- 🌐 [LinkedIn](https://linkedin.com/in/hammed-olamilekan-yakub)  
+- 🌐 [LinkedIn](www.linkedin.com/in/hammed-y-856194110) 
 - 💼 [Portfolio / Website](#) *(coming soon)*  
 - ✉️ Yakubhammed176@gmail.com 
 
