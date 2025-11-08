@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Hammed Olamilekan Yakub  
- 
+![Banner](Banner.jpg)
+# 👋 Hi, I'm Hammed Olamilekan Yakub   
 💼 Cybersecurity Expert | System Analyst | IT Governance & Network Security |
 Threat hunter | GRC |
 
