@@ -31,7 +31,15 @@ Threat hunter | GRC |
 
 ## 🌱 What I'm Working On  
 
-- 🎯 Building expertise in **Cybersecurity** (threat analysis, network security, risk management)  
+- 🎯 Building expertise in **Cybersecurity** (threat analysis, network security, risk management)
+---
+
+- ## 🚀 Featured Projects
+
+### 🔹 [Networking Project for Databridge Innovations](https://github.com/Hyconolami/Networking-project-for-Databridge-)
+> A secure and segmented enterprise network configuration showcasing subnet design, router setup, and ACL implementation.  
+> 🧩 *Tools:* Cisco Packet Tracer, Wireshark  
+> 🧠 *Focus:* Network Security, Access Control, Routing, and VLAN Segmentation 
 
 ## 📫 Connect With Me  
 
